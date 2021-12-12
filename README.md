@@ -38,7 +38,7 @@ Next we look at the call source, i.e. sources from which these requests were mad
 ---
 To test out this hypothesis, we calculated mean resolution time over years and plotted it on same graph for easy comparison. We can observe from the following graph that the resolution time in 2020 is less than the resolution time in previous years and hence disproving the the hypothesis that the resolution time increased during peak covid period due to Covid Protocols.
 
-![](![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/resolution_time.png?raw=true))
+![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/resolution_time.png?raw=true)
 ---
 
 
@@ -47,5 +47,5 @@ To test out this hypothesis, we calculated mean resolution time over years and p
 ---
 Our second hypothesis that during the peak period of Covid, the frequency of calls per day reduced significantly is true since we can observe from the above graph that during Spring 2020, the frequency of calls reduced significantly compared to pre covid Spring seasons.
 
-![](![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/seasons.png?raw=true))
+![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/seasons.png?raw=true)
 ---
