@@ -2,7 +2,7 @@
 
 Covid has affected every person and company either physically, mentally or financially. Although there were positive outcomes such as Work from home became a norm and mental health is being taken seriously than ever before, the negatives clearly outweigh the positives. Even during these challenging times, front line workers had to put up strong facade and head to work. 
 
-![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/311.png?raw=true)
+![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/311.jpg?raw=true)
 
 311 is one such helpline that helps with issues like abandoned or stolen vehicles, noise complaints, sanitization issue, etc. Although it is not nation-wide, major cities like NYC and San Francisco have it and people often use it to address their non emergency issues. When you call 311, operator picks up the call, hears your concerns and send help accordingly.
 
