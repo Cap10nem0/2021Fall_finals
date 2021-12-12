@@ -21,7 +21,7 @@ Hypothesis 2: During the peak period of Covid, the frequency of calls per day re
 
 While working on classifying requests by type, we found out that top 3 categories viz. General Request, Parking Enforcement and Requests for Street Cleaning for which 311 receieved calls remained the same. These 3 requests saw small to minute raise in calls post covid i.e. in 2020. A side by side comparison table is shown below:-  
 
-![](D:\Sem 1\IS 597 - PR\2021Fall_finals\images\resolution_time.png)
+![](https://github.com/Cap10nem0/2021Fall_finals/blob/main/images/resolution_time.png?raw=true)
 
 Next, as we move on to classify requests by location, locations - 1 City Hall Plz, Boston, MA 02108 and 100 City Hall Plz, Boston, MA 02108 do not lose their top positions. Although they maintain their top positions, it is evident that there has been rise in calls by seeing their percentage contribution. Furthermore, 6 of these locations are same irrespective of covid implying trend did not change. Refer following image for comparison-
 
