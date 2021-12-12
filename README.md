@@ -29,10 +29,13 @@ Next, as we move on to classify requests by location, locations - 1 City Hall Pl
 
 Next we look at the call source, i.e. sources from which these requests were made. Order of top sources does not change pre and post covid times. This implies that Covid did not have any effect on the way requests are made. People's first choice of preference is always Mobile Request, second being Constituent Call and third being City worker App. It is worthy to note that mobile requests and City Worker App saw a rise in requests by approximately 8 and 1 percent respectively.
 
+![](D:\Sem 1\IS 597 - PR\2021Fall_finals\images\resolution_time.png)
 
 ### Hypothesis 1: For the customer service requests raised between Jan 1, 2020, and Dec 31, 2020, in Boston, resolution time increased than previous years(2014-2019) due to Covid protocols.
 
 ---
+To test out this hypothesis, we calculated mean resolution time over years and plotted it on same graph for easy comparison. We can observe from the following graph that the resolution time in 2020 is less than the resolution time in previous years and hence disproving the the hypothesis that the resolution time increased during peak covid period due to Covid Protocols.
+
 ![](D:\Sem 1\IS 597 - PR\2021Fall_finals\images\resolution_time.png)
 ---
 
@@ -40,5 +43,7 @@ Next we look at the call source, i.e. sources from which these requests were mad
 ### Hypothesis 2: During the peak period of Covid, the frequency of calls per day reduced significantly as citizens were forced to stay indoors.
 
 ---
+Our second hypothesis that during the peak period of Covid, the frequency of calls per day reduced significantly is true since we can observe from the above graph that during Spring 2020, the frequency of calls reduced significantly compared to pre covid Spring seasons.
 
+![](D:\Sem 1\IS 597 - PR\2021Fall_finals\images\resolution_time.png)
 ---
