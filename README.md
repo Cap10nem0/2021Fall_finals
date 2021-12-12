@@ -5,7 +5,7 @@ Covid has affected every person and company either physically, mentally or finan
 ### Hypothesis 1: For the customer service requests raised between Jan 1, 2020, and Dec 31, 2020, in Boston, resolution time increased than previous years(2014-2019) due to Covid protocols.
 
 ---
-
+![](D:\Sem 1\IS 597 - PR\2021Fall_finals\images\resolution_time.png)
 ---
 
 
