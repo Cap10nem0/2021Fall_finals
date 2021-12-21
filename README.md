@@ -19,6 +19,10 @@ Furthermore ,we tested following hypotheses:
 Hypothesis 1: For the customer service requests raised between Jan 1, 2020, and Dec 31, 2020, in Boston, resolution time increased than previous years(2014-2019) due to Covid protocols.
 Hypothesis 2: During the peak period of Covid, the frequency of calls per day reduced significantly as citizens were forced to stay indoors.
 
+### Dataset
+
+Before executing the notebook, please extract the [dataset](data.zip) files.
+
 ### Results
 
 While working on classifying requests by type, we found out that top 3 categories viz. General Request, Parking Enforcement and Requests for Street Cleaning for which 311 receieved calls remained the same. These 3 requests saw small to minute raise in calls post covid i.e. in 2020. A side by side comparison table is shown below:-  
